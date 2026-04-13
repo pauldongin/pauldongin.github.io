@@ -1,7 +1,7 @@
 # Main navigation links shown in the site header.
 
 main:
-  - title: "Publications"
+  - title: "Featured Publications"
     url: /publications/
 
   - title: "CV"
