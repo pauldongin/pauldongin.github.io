@@ -17,7 +17,7 @@ I am currently working on a summer camp intervention study aimed at promoting ph
 
 ## Publications
 
-I have published work in journals including *PLOS One* and *Frontiers in Sports and Active Living*. See my full list of publications [here](/publications/).
+I have published work in journals including *Children*, *Scientific Reports*, *Frontiers in Sports and Active Living*, and *JMIR Formative Research*. See my full list of publications [here](/publications/).
 
 ## Education
 
