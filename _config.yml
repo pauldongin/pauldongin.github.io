@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Paul (Dongin) Son"
+title                    : "Paul Son"
 title_separator          : "-"
 name                     : &name "Paul (Dongin) Son"
 description              : &description "PhD Student in Kinesiology at Louisiana State University"
@@ -26,7 +26,7 @@ author:
   name             : "Paul (Dongin) Son"
   name_native      : "손동인"
   pronouns         : #
-  bio              : "PhD Student in Kinesiology"
+  bio              : #
   location         : #
   employer         : "Louisiana State University"
   uri              : # URL
