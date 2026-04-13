@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Paul Son"
+title                    : "Paul (Dongin) Son"
 title_separator          : "-"
-name                     : &name "Paul Son"
+name                     : &name "Paul (Dongin) Son"
 description              : &description "PhD Student in Kinesiology at Louisiana State University"
 url                      : https://pauldongin.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,8 @@ repository               : "pauldongin/pauldongin.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Paul Son"
+  name             : "Paul (Dongin) Son"
+  name_native      : "손동인"
   pronouns         : "he/him"
   bio              : "PhD Student in Kinesiology"
   location         : "Baton Rouge, LA"
