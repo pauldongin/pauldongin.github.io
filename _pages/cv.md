@@ -23,6 +23,12 @@ Skills
 * GIS: Geographic Information Systems
 * Microsoft Office: Excel, Word, PowerPoint
 
+Languages
+======
+* 🇰🇷 Korean — Native
+* 🇬🇧 English — Proficient
+* 🇯🇵 Japanese — Fluent
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
