@@ -19,21 +19,14 @@ Education
 Skills
 ======
 * Statistical Analysis: IBM SPSS Statistics, R
-* Research Methods: Systematic/Scoping Review, Survey Design, Accelerometry
-* GIS: Geographic Information Systems
+* GIS: ArcGIS
 * Microsoft Office: Excel, Word, PowerPoint
 
 Languages
 ======
-* 🇰🇷 Korean — Native
-* 🇬🇧 English — Proficient
-* 🇯🇵 Japanese — Fluent
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Korean — Native
+* English — Proficient
+* Japanese — Fluent
   
 Talks
 ======
