@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Paul (Dongin) Son"
   name_native      : "손동인"
-  pronouns         : "he/him"
+  pronouns         : #
   bio              : "PhD Student in Kinesiology"
-  location         : "Baton Rouge, LA"
+  location         : #
   employer         : "Louisiana State University"
   uri              : # URL
   email            : "dson2@lsu.edu"
