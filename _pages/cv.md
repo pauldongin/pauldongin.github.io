@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,7 +19,7 @@ Education
 Skills
 ======
 * Statistical Analysis: IBM SPSS Statistics, R
-* GIS: ArcGIS
+* Geographic Information Systems (GIS): ArcGIS
 * Microsoft Office: Excel, Word, PowerPoint
 
 Languages
