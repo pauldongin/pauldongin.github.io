@@ -1,6 +1,9 @@
 # Main navigation links shown in the site header.
 
 main:
+  - title: "About Me"
+    url: /
+
   - title: "Featured Publications"
     url: /publications/
 
