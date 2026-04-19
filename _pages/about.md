@@ -15,10 +15,6 @@ I am a 3rd-year PhD student in the [Department of Kinesiology](https://www.lsu.e
 
 I am currently working on a summer camp intervention study aimed at promoting physical activity and reducing sedentary behavior among school-aged children.
 
-## Publications
-
-I have published work in journals including *Children*, *Scientific Reports*, *Frontiers in Sports and Active Living*, and *JMIR Formative Research*. See my full list of publications [here](/publications/).
-
 ## Education
 
 - **Ph.D. in Kinesiology** (in progress), Louisiana State University
