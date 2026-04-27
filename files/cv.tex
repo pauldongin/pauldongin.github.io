@@ -1,0 +1,221 @@
+\documentclass[11pt, letterpaper]{article}
+
+% Packages
+\usepackage[margin=1in, top=0.8in, bottom=0.8in]{geometry}
+\usepackage{fontawesome5}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{microtype}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+% Hyperlink colors
+\hypersetup{
+    colorlinks=true,
+    urlcolor=black,
+    linkcolor=black
+}
+
+% Section formatting (bold, with horizontal rule, like Chaerim Moon's CV)
+\titleformat{\section}
+  {\large\bfseries}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+\titlespacing{\section}{0pt}{10pt}{4pt}
+
+% No paragraph indent
+\setlength{\parindent}{0pt}
+
+% Custom commands
+\newcommand{\cventry}[3]{%
+  \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    \textbf{#1} & #2
+  \end{tabular*}\\
+  #3\par\vspace{4pt}
+}
+
+\begin{document}
+
+% ─── Header ───────────────────────────────────────────────────────────────────
+\begin{center}
+  {\LARGE\bfseries Paul Son}\\[4pt]
+  50 Field House Dr \#B206, Baton Rouge, LA 70802\\[2pt]
+  \faHome\ \href{https://pauldongin.github.io}{pauldongin.github.io}\quad
+  \faGraduationCap\ \href{https://scholar.google.com/citations?hl=en&user=YOURID}{Google Scholar}\quad
+  \faEnvelope\ \href{mailto:dson2@lsu.edu}{dson2@lsu.edu}
+\end{center}
+
+\vspace{6pt}
+
+% ─── Research Interest ────────────────────────────────────────────────────────
+\section{Research Interest}
+
+Physical activity, sedentary behavior, screen time
+
+% ─── Education ────────────────────────────────────────────────────────────────
+\section{Education}
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Louisiana State University}, \textit{Baton Rouge, LA} & 2024 -- Present
+\end{tabular*}\\
+Ph.D.\ in Kinesiology, School of Kinesiology
+(Minor: Applied Statistics)\\
+Advisor: Dr.\ Chen, S.
+
+\vspace{6pt}
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Korea University}, \textit{Seoul, South Korea} (GPA: 4.5/4.5) & 2018 -- 2021
+\end{tabular*}\\
+M.S.\ in Physical Education\\
+Supervisor: Dr.\ Yu, T.\ H.\\
+Thesis: \textit{Qualitative research on physical education major students' experience of double major}
+
+\vspace{6pt}
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Korea University}, \textit{Seoul, South Korea} (GPA: 3.99/4.5) & 2012 -- 2018
+\end{tabular*}\\
+B.S.\ in Physical Education
+
+% ─── Publications ─────────────────────────────────────────────────────────────
+\section{Publications}
+
+\textbf{Peer-Reviewed Journal Articles}
+
+\begin{enumerate}[leftmargin=*, label=\arabic*., itemsep=4pt]
+
+  \item \textbf{Son P}, Nie Y, Tan Q, Yang P, Murray P, et al.\ (2026). Variations in children's screen time behaviors by weight status among a mostly disadvantaged population. \textit{PLOS ONE}, 21(4): e0346235. \href{https://doi.org/10.1371/journal.pone.0346235}{https://doi.org/10.1371/journal.pone.0346235}
+
+  \item Tan Q, Nie Y, \textbf{Son P}, Qian Y, Staiano AE, Wang F, \ldots{} \& Chen S. (2026). Using AI chatbot to assist students' behavior management for obesity prevention in middle schools: Feasibility study. \textit{JMIR Formative Research}, 10(1), e83630.
+
+  \item \textbf{Son P}, Nie Y, Tan Q, Staiano AE, Wang F, Hu G, Gordon S, Murray P, Luo C, Zeng Y, Underwood RA \& Chen S. (2026). Health behaviors and social determinants of health in children from under-resourced communities: does weight status play a role? \textit{Frontiers in Sports and Active Living}, 7:1695539. \href{https://doi.org/10.3389/fspor.2025.1695539}{doi: 10.3389/fspor.2025.1695539}
+
+  \item Nie Y, Tan Q, \textbf{Son P}, Staiano AE, Rosenkranz RR, Spring KE, \ldots{} \& Chen S. (2025). Testing an adapted obesity prevention intervention in under-resourced schools: a pilot clustered randomized controlled trial. \textit{Scientific Reports}, 15(1), 31678.
+
+  \item Tan Q, Nie Y, \textbf{Son P}, Underwood RA, Murray P, Hebert C, McKey KL, Hendrick C, Staiano AE \& Chen S. (2024). Preliminary effectiveness of a one-week summer day camp for improving children's health behaviors and psychosocial well-being outcomes. \textit{Children}, 11(9), 1097. \href{https://doi.org/10.3390/children11091097}{https://doi.org/10.3390/children11091097}
+
+  \item \textbf{Son DI} \& Park JH. (2021). Qualitative research on physical education major students' experience of double major. \textit{The Korean Journal of Physical Education}, 60(6), 55--69.
+
+  \item \textbf{Son DI}, Hwang YH \& Yu TH. (2016). A study on the freshmen welcome party of physical education major students. \textit{Korean Society for the Sociology of Sport}, 29(1), 19--44.
+
+\end{enumerate}
+
+% ─── Academic Presentations ───────────────────────────────────────────────────
+\section{Academic Presentations}
+
+\textbf{Oral Presentations}
+
+\begin{itemize}[leftmargin=*, itemsep=3pt]
+  \item Chen S \& \textbf{Son P}. (March 13, 2024). \textit{Feasibility of the ProudME Intervention: A case of the Whole-of-School Initiative.} 2024 SHAPE America National Convention \& Expo, Cleveland, Ohio.
+
+  \item \textbf{Son DI} \& Yu TH. (October 5, 2019). \textit{A qualitative research on physical education major students' experience of double major.} 57th KAPHERD Conference for the 100th National Sports Festival Commemoration, Yonsei University, Seoul, South Korea.
+\end{itemize}
+
+\vspace{4pt}
+\textbf{Poster Presentations}
+
+\begin{itemize}[leftmargin=*, itemsep=3pt]
+  \item \textbf{Son P}. (June 12, 2025). \textit{Children's Health Behavior Vary by Social Determinants of Health.} 2025 International Society of Behavioral Nutrition and Physical Activity, Oakland, New Zealand.
+\end{itemize}
+
+% ─── Teaching Experience ──────────────────────────────────────────────────────
+\section{Teaching Experience}
+
+\textbf{Graduate Teaching Assistant}, \textit{Louisiana State University}
+
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  KIN 3502 Test and Measurement in Kinesiology (Lab) & Spring 2026 \\
+  KIN 3502 Test and Measurement in Kinesiology (Lab) & Fall 2025 \\
+  KIN 1999 Pickleball & Spring 2025 \\
+  KIN 3502 Test and Measurement in Kinesiology (Lab) & \\
+  KIN 1999 Pickleball & Fall 2024 \\
+  KIN 3502 Test and Measurement in Kinesiology (Lab) & \\
+  KIN 1999 Pickleball & Spring 2024 \\
+\end{tabular*}
+
+\vspace{6pt}
+\textbf{Volunteer Tutor}, \textit{Seoul National University High School}, Seoul, South Korea \hfill Spring 2016\\
+Taught mathematics to underserved high school students.
+
+% ─── Research Experience ──────────────────────────────────────────────────────
+\section{Research Experience}
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Research Assistant} & 2019
+\end{tabular*}\\
+Title: \textit{Physical education textbook translation project} (PI: Dr.\ Yu, T.\ H.)\\
+Textbook: Rink, J.\ (2014). \textit{Teaching Physical Education for Learning} (7th ed.). McGraw-Hill.
+\begin{itemize}[leftmargin=2em, itemsep=1pt, topsep=2pt]
+  \item Wrote manuscript chapters on motivation, student growth, planning, and evaluation in physical education
+\end{itemize}
+
+\vspace{4pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Research Assistant} & 2015
+\end{tabular*}\\
+Title: \textit{Sport hero interview project}\\
+Funding: Korean Sport \& Olympic Committee
+\begin{itemize}[leftmargin=2em, itemsep=1pt, topsep=2pt]
+  \item Participated in meetings and research presentations and transcribed interview recordings of sport heroes selected by the Korea Sport \& Olympic Committee
+
+\end{itemize}
+
+% ─── Award / Scholarship ──────────────────────────────────────────────────────
+\section{Award / Scholarship}
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Travel Award} (approx.\ 2,300 USD), \textit{College of Education, Korea University} & Winter 2015
+\end{tabular*}\\
+Title: \textit{A study on collegiate recreational sports}
+\begin{itemize}[leftmargin=2em, itemsep=1pt, topsep=2pt]
+  \item Conducted comparative analysis of intramural sport in South Korea and the United States
+  \item Interviewed representatives of Recreational Sport at the Ohio State University, Columbus, OH
+\end{itemize}
+
+\vspace{4pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Travel Award} (Full travel expense), \textit{AEON Group Foundation, Japan} & Summer 2014
+\end{tabular*}\\
+Asian Students Environment Platform (ASEP) 2014, Tsinghua University, China
+\begin{itemize}[leftmargin=2em, itemsep=1pt, topsep=2pt]
+  \item Wrote pre-assignment on water sources in Korea
+  \item Visited cities related to water sources in China affecting the ecosystem
+  \item Participated in tree plantation activity in the desert
+  \item Prepared and delivered an oral presentation jointly with students from China, Japan, Malaysia, and Vietnam
+\end{itemize}
+
+% ─── Working Experience ───────────────────────────────────────────────────────
+\section{Working Experience}
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Physical Activity Instructor}, \textit{Seoil Elementary School}, Seoul, South Korea & Fall 2018
+\end{tabular*}\\
+Taught recreational physical activities to children aged 6 to 7.
+
+\vspace{4pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Physical Activity Instructor}, \textit{Viva Sports Academy}, Seoul, South Korea & 2012 -- 2013
+\end{tabular*}\\
+Trained high school students preparing for the Kinesiology major entrance exam.
+
+% ─── Skills ───────────────────────────────────────────────────────────────────
+\section{Skills}
+
+\textbf{Statistical Analysis:} IBM SPSS, RStudio\\
+\textbf{Geographic Information Systems (GIS):} ArcGIS
+
+  % ─── Languages ────────────────────────────────────────────────────────────────
+  \section{Languages}
+
+  \begin{itemize}[leftmargin=*, itemsep=2pt]
+    \item Korean -- Native Speaker
+    \item English -- Full Professional Proficiency
+    \item Japanese -- Professional Working Proficiency (JLPT N1)
+  \end{itemize}
+
+\end{document}
