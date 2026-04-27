@@ -1,11 +1,11 @@
 # Main navigation links shown in the site header.
 
 main:
-  - title: "About Me"
+  - title: "About"
     url: /
 
-  - title: "Featured Publications"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
