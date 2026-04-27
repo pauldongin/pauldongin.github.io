@@ -14,9 +14,3 @@ I am a 3rd-year PhD student in the [Department of Kinesiology](https://www.lsu.e
 - **Childhood obesity** prevention and intervention
 
 I am currently working on a summer camp intervention study aimed at promoting physical activity and reducing sedentary behavior among school-aged children.
-
-## Education
-
-- **Ph.D. in Kinesiology** (in progress), Louisiana State University
-- **M.S. in Physical Education**, Korea University
-- **B.S. in Physical Education**, Korea University
