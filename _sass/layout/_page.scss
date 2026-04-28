@@ -5,6 +5,7 @@
 #main {
   @include container;
   @include clearfix;
+  min-height: calc(100vh - #{$masthead-height} - 12em);
   margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
