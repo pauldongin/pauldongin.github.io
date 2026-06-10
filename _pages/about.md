@@ -13,4 +13,4 @@ I am a 3rd-year PhD student in the [Department of Kinesiology](https://www.lsu.e
 - **Sedentary behavior** and **screen time** reduction
 - **Childhood obesity** prevention and intervention
 
-I am currently working on a summer camp intervention study aimed at promoting physical activity and reducing sedentary behavior among school-aged children.
+I am currently working on a summer camp intervention study aimed at promoting physical activity and reducing screen time among school-aged children. I am also interested in Ecological Momentary Assessment (EMA) to capture the context-specific behaviors that relate to health behavior and health outcomes.
