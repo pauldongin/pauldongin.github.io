@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><strong>Last updated:</strong> 2026 April 26</p>
+<p><strong>Last updated:</strong> 2026 June 10</p>
 
 <p>
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download PDF</a>
