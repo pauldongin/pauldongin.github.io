@@ -7,8 +7,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Interest, Side activities"
-    url: /interest-side-activities/
-
   - title: "Curriculum Vitae"
     url: /cv/
+
+  - title: "Interests"
+    url: /interest-side-activities/

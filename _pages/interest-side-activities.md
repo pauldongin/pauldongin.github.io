@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Interest, Side activities"
+title: "Interests"
 permalink: /interest-side-activities/
 author_profile: true
 ---
