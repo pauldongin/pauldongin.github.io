@@ -7,4 +7,5 @@ author_profile: true
 
 ## Weather Landmark
 
-- [Weather Landmark Visualizer](https://github.com/pauldongin/weather-landmark-visualizer.git)
+- [Weather Landmark Visualizer](https://pauldongin.github.io/weather/)
+- [GitHub repository](https://github.com/pauldongin/weather)
