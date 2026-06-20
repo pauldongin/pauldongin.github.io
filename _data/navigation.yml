@@ -7,8 +7,8 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
 
-  - title: "Interests"
-    url: /interest-side-activities/
-
   - title: "Projects"
     url: /projects/
+
+  - title: "Interests"
+    url: /interest-side-activities/
