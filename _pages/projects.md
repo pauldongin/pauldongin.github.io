@@ -65,7 +65,7 @@ A research-backed iOS app for adolescent obesity prevention (ages 13–17), buil
 
 ## Research
 
-### EMA Survey Development
+### EMA Survey Development (Qualtrics)
 
 Ecological Momentary Assessment (EMA) questionnaire developed for capturing social and physical context-specific screen use associated with sedentary time and adiposity in youth.
 
