@@ -16,7 +16,7 @@ table, th, td {
 
 ### [Weather Landmark Visualizer](https://pauldongin.github.io/weather/)
 
-An interactive web app that visualizes real-time weather conditions at famous landmarks around the world. [View Source on GitHub](https://github.com/pauldongin/weather)
+An interactive web app that visualizes real-time weather conditions at famous landmarks around the world.
 
 <p align="center">
   <img src="/images/weather-desktop.png" width="520" alt="Weather Landmark - Desktop" />
@@ -28,12 +28,12 @@ An interactive web app that visualizes real-time weather conditions at famous la
 
 <table><tr><td width="60%" valign="top">
 
-<p style="font-size: 1.1em; margin-top: 0;">
+<p style="font-size: 1.15em; margin-top: 0;">
 A research-backed iOS app for adolescent obesity prevention (ages 13–17), built as a direct extension of my PhD research on childhood obesity and behavior change.
 </p>
 
-<b>Key features:</b>
-<ul>
+<p style="font-size: 1.05em;"><b>Key features:</b></p>
+<ul style="font-size: 1.05em;">
 <li>Meal logging with photo recognition and quick-pick options</li>
 <li>HealthKit integration (steps, sleep, active energy)</li>
 <li>Personalized goal-setting — no calorie counting or weight-loss framing</li>
@@ -42,7 +42,7 @@ A research-backed iOS app for adolescent obesity prevention (ages 13–17), buil
 <li>COPPA-compliant parental consent flow</li>
 </ul>
 
-<a href="https://github.com/pauldongin/TeenHealth">View on GitHub</a>
+<p style="font-size: 1.05em;"><a href="https://github.com/pauldongin/TeenHealth">View on GitHub</a></p>
 
 </td><td width="40%" align="center" valign="top">
 
