@@ -19,7 +19,7 @@ An interactive web app that visualizes real-time weather conditions at famous la
 
 ---
 
-### TeenHealth — iOS App
+### TeenHealth — iOS App *(In Development)*
 
 A research-backed iOS app for adolescent obesity prevention (ages 13–17), built as a direct extension of my PhD research on childhood obesity and behavior change.
 
