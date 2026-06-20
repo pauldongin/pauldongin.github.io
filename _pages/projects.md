@@ -13,7 +13,12 @@ An interactive web app that visualizes real-time weather conditions at famous la
 
 [Explore the App](https://pauldongin.github.io/weather/) | [View Source on GitHub](https://github.com/pauldongin/weather)
 
-*(Screenshot coming soon)*
+<p align="center">
+  <img src="/images/weather-desktop.png" width="520" alt="Weather Landmark - Desktop" />
+</p>
+<p align="center">
+  <img src="/images/weather-mobile.png" width="200" alt="Weather Landmark - Mobile" />
+</p>
 
 ---
 
