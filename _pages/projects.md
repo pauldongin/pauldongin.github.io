@@ -10,6 +10,17 @@ table, th, td {
   border: none !important;
   border-collapse: collapse !important;
 }
+.teenhealth-desc {
+  font-size: 1.25em !important;
+  line-height: 1.5 !important;
+}
+.teenhealth-features {
+  font-size: 1.15em !important;
+  line-height: 1.6 !important;
+}
+.teenhealth-link {
+  font-size: 1.15em !important;
+}
 </style>
 
 ## AI & Coding
@@ -28,12 +39,12 @@ An interactive web app that visualizes real-time weather conditions at famous la
 
 <table><tr><td width="60%" valign="top">
 
-<p style="font-size: 1.15em; margin-top: 0;">
+<p class="teenhealth-desc">
 A research-backed iOS app for adolescent obesity prevention (ages 13–17), built as a direct extension of my PhD research on childhood obesity and behavior change.
 </p>
 
-<p style="font-size: 1.05em;"><b>Key features:</b></p>
-<ul style="font-size: 1.05em;">
+<p class="teenhealth-features"><b>Key features:</b></p>
+<ul class="teenhealth-features">
 <li>Meal logging with photo recognition and quick-pick options</li>
 <li>HealthKit integration (steps, sleep, active energy)</li>
 <li>Personalized goal-setting — no calorie counting or weight-loss framing</li>
@@ -42,7 +53,7 @@ A research-backed iOS app for adolescent obesity prevention (ages 13–17), buil
 <li>COPPA-compliant parental consent flow</li>
 </ul>
 
-<p style="font-size: 1.05em;"><a href="https://github.com/pauldongin/TeenHealth">View on GitHub</a></p>
+<p class="teenhealth-link"><a href="https://github.com/pauldongin/TeenHealth">View on GitHub</a></p>
 
 </td><td width="40%" align="center" valign="top">
 
