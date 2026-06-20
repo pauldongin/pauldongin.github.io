@@ -1,9 +1,6 @@
 # Main navigation links shown in the site header.
 
 main:
-  - title: "About"
-    url: /
-
   - title: "Publications"
     url: /publications/
 
@@ -12,3 +9,6 @@ main:
 
   - title: "Interests"
     url: /interest-side-activities/
+
+  - title: "Projects"
+    url: /projects/

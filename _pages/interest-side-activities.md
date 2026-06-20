@@ -5,15 +5,6 @@ permalink: /interest-side-activities/
 author_profile: true
 ---
 
-## AI & Coding
-
-- **Weather Landmark:** [Explore the Weather Landmark Visualizer](https://pauldongin.github.io/weather/) or [view the source code on GitHub](https://github.com/pauldongin/weather).
-- **Child Weight Management:** App development for supporting healthy weight-management behaviors in children.
-
-## Research
-
-- **EMA Survey Development (Qualtrics):** [Download the Ecological Momentary Assessment Questionnaire (.qsf)]({{ base_path }}/files/Ecological-Momentary-Assessment-Questionnaire.qsf).
-
 ## Hobbies
 
 ### TV Shows
