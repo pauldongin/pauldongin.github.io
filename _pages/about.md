@@ -14,3 +14,10 @@ I am a 3rd-year PhD student in the [Department of Kinesiology](https://www.lsu.e
 - **Childhood obesity** prevention and intervention
 
 I am currently involved in a summer camp intervention study aimed at promoting physical activity and reducing screen time among school-aged children. I am also working on an Ecological Momentary Assessment (EMA) study that captures social and physical context-specific screen use associated with sedentary time and adiposity.
+
+## Projects
+
+### TeenHealth — iOS App
+A research-backed iOS app for adolescent obesity prevention (ages 13–17), built as a direct extension of my PhD research. The app supports meal logging, HealthKit-integrated activity tracking, goal-setting, and AI-powered health coaching — without calorie counting or weight-loss framing.
+
+[View on GitHub](https://github.com/pauldongin/TeenHealth)
