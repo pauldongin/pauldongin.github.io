@@ -11,7 +11,7 @@ author_profile: true
 
 An interactive web app that visualizes real-time weather conditions at famous landmarks around the world.
 
-[Explore the App](https://pauldongin.github.io/weather/) &nbsp;|&nbsp; [View Source on GitHub](https://github.com/pauldongin/weather)
+[Explore the App](https://pauldongin.github.io/weather/) | [View Source on GitHub](https://github.com/pauldongin/weather)
 
 *(Screenshot coming soon)*
 
@@ -19,9 +19,11 @@ An interactive web app that visualizes real-time weather conditions at famous la
 
 ### TeenHealth — iOS App
 
-<img src="/images/teenhealth-screenshot.png" width="220" align="right" alt="TeenHealth App" style="margin-left: 20px; margin-bottom: 10px; border-radius: 16px;" />
-
 A research-backed iOS app for adolescent obesity prevention (ages 13–17), built as a direct extension of my PhD research on childhood obesity and behavior change.
+
+<p align="center">
+  <img src="/images/teenhealth-screenshot.png" width="240" alt="TeenHealth App" />
+</p>
 
 **Key features:**
 - Meal logging with photo recognition and quick-pick options
@@ -32,8 +34,6 @@ A research-backed iOS app for adolescent obesity prevention (ages 13–17), buil
 - COPPA-compliant parental consent flow
 
 [View on GitHub](https://github.com/pauldongin/TeenHealth)
-
-<br clear="right"/>
 
 ---
 
