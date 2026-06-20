@@ -21,21 +21,29 @@ An interactive web app that visualizes real-time weather conditions at famous la
 
 ### TeenHealth — iOS App *(In Development)*
 
+<table><tr><td width="60%" valign="top">
+
 A research-backed iOS app for adolescent obesity prevention (ages 13–17), built as a direct extension of my PhD research on childhood obesity and behavior change.
 
-<p align="center">
-  <img src="/images/teenhealth-screenshot.png" width="240" alt="TeenHealth App" />
-</p>
+<br/>
 
-**Key features:**
-- Meal logging with photo recognition and quick-pick options
-- HealthKit integration (steps, sleep, active energy)
-- Personalized goal-setting — no calorie counting or weight-loss framing
-- AI-powered health coach (Groq / Llama 3.3 70B)
-- Gamification: points, levels, badges, streaks
-- COPPA-compliant parental consent flow
+<b>Key features:</b>
+<ul>
+<li>Meal logging with photo recognition and quick-pick options</li>
+<li>HealthKit integration (steps, sleep, active energy)</li>
+<li>Personalized goal-setting — no calorie counting or weight-loss framing</li>
+<li>AI-powered health coach (Groq / Llama 3.3 70B)</li>
+<li>Gamification: points, levels, badges, streaks</li>
+<li>COPPA-compliant parental consent flow</li>
+</ul>
 
-[View on GitHub](https://github.com/pauldongin/TeenHealth)
+<a href="https://github.com/pauldongin/TeenHealth">View on GitHub</a>
+
+</td><td width="40%" align="center" valign="top">
+
+<img src="/images/teenhealth-screenshot.png" width="220" alt="TeenHealth App" />
+
+</td></tr></table>
 
 ---
 
