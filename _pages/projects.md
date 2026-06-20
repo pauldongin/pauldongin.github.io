@@ -5,13 +5,18 @@ permalink: /projects/
 author_profile: true
 ---
 
+<style>
+table, th, td {
+  border: none !important;
+  border-collapse: collapse !important;
+}
+</style>
+
 ## AI & Coding
 
-### Weather Landmark Visualizer
+### [Weather Landmark Visualizer](https://pauldongin.github.io/weather/)
 
-An interactive web app that visualizes real-time weather conditions at famous landmarks around the world.
-
-[Explore the App](https://pauldongin.github.io/weather/) | [View Source on GitHub](https://github.com/pauldongin/weather)
+An interactive web app that visualizes real-time weather conditions at famous landmarks around the world. [View Source on GitHub](https://github.com/pauldongin/weather)
 
 <p align="center">
   <img src="/images/weather-desktop.png" width="520" alt="Weather Landmark - Desktop" />
@@ -23,9 +28,9 @@ An interactive web app that visualizes real-time weather conditions at famous la
 
 <table><tr><td width="60%" valign="top">
 
+<p style="font-size: 1.1em; margin-top: 0;">
 A research-backed iOS app for adolescent obesity prevention (ages 13–17), built as a direct extension of my PhD research on childhood obesity and behavior change.
-
-<br/>
+</p>
 
 <b>Key features:</b>
 <ul>
